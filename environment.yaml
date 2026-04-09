@@ -1,0 +1,14 @@
+name: scattering
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - numba
+  - mpmath
+  - pip
+
